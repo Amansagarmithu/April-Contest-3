@@ -1,0 +1,11 @@
+.last{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.lastest{
+    display:flex;
+    gap:60%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
