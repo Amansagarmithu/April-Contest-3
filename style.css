@@ -3,6 +3,12 @@
     justify-content: space-around;
     margin-top: 100px;
 }
+@media (max-width:480px){
+    .last{
+        display: block;
+        margin-left: 30%;
+    }
+}
 .lastest{
     display:flex;
     gap:60%;
